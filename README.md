@@ -1,2 +1,9 @@
 # exec-stylis
-stylisを実行する
+
+stylis を実行する
+
+```
+npm i
+
+node index.js
+```
